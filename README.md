@@ -9,7 +9,7 @@ o888o o888o `Y8bod8P' `8oooooo.   `V88V"V8P' d888b      "888"
                       d"     YD                              
                       "Y88888P'                                                           
 ```
- ✨ Playing mainly with ai agents ✨
+  :octocat: _Playing mainly with ai agents   👾.👾.👾👾.👾👾👾.👾👾👾👾👾
 
 <!--
 **iiogurt/iiogurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
