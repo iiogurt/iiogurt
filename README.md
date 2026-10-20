@@ -12,4 +12,4 @@ o888o o888o `Y8bod8P' `8oooooo.   `V88V"V8P' d888b      "888"
   :octocat: _Playing mainly with ai agents   👾.👾.👾👾.👾👾👾.👾👾👾👾👾
 
   
-![GitHub stars](https://awesome-git-stats.vercel.app/api/stars?username=iiogurt&theme=blueprint&art=waves)
+![GitHub stars](https://awesome-git-stats.vercel.app/api/stars?username=iiogurt&layout=dashboard&theme=deep_sea)
